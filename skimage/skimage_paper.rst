@@ -91,8 +91,8 @@ Industry
 
 .. include:: skimage/usage-industry.txt
 
-Gallery of examples
-===================
+Example: panorama stitching
+===========================
 
 .. include:: skimage/pano.txt
 

@@ -1,6 +1,3 @@
-Panorama stitching
-==================
-
 This section gives a step-by-step outline of how to perform panorama stitching
 using the primitives found in scikit-image.  The full source code may be found
 at https://github.com/scikit-image/scikit-image-demos.
